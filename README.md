@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Chris, a (mostly) self taught software developer with several years of industry experience.
+Still pretty passionate about code and focused on backend/full-stack!
+Looking to do more software-engineering 🛠️ 
 
+Have a look around! Most of the recent stuff is pinned below! :)
 <!--
 **ckk91/ckk91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
