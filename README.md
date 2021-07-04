@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm Chris, a (mostly) self taught software developer with several years of industry experience.  
-Still pretty passionate about code and focused on backend/full-stack!  
+
+Python is my main driver 🐍
+
+I'm pretty passionate about software and currently focused on backend/full-stack!  
 Looking to do more software-engineering 🛠️ 
 
 Currently playing around with: GCP, FastApi
