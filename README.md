@@ -6,7 +6,7 @@ Python is my current main driver 🐍
 I'm pretty passionate about software and currently focused on backend/full-stack!  
 Looking to do more software-engineering 🛠️ 
 
-Currently playing around with: GCP, FastApi
+Currently playing around with: GCP, FastApi. Next up: More k8s, to unlearn Openshift.
 
 Have a look around! Most of my recent stuff is pinned below! :)
 <!--
