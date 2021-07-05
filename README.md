@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Chris, a (mostly) self taught software developer with several years of industry experience.  
 
-Python is my main driver 🐍
+Python is my current main driver 🐍
 
 I'm pretty passionate about software and currently focused on backend/full-stack!  
 Looking to do more software-engineering 🛠️ 
