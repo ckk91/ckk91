@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Chris, a (mostly) self taught software developer with several years of industry experience.  
+I'm Chris, a software developer with several years of industry experience.  
 
 Python is my current main driver 🐍
 
